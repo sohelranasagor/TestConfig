@@ -1,1 +1,4 @@
-{ "ScanSMSserverUrl": "https://scansms-fpz.onrender.com" }
+{
+  "ScanSMSserverUrl": "https://scansms-fpzr.onrender.com",
+  "PrepaidTrackerApiBase": "https://prepaidtracker-api.onrender.com"
+}
