@@ -1,4 +1,4 @@
 {
-  "ScanSMSserverUrl": "https://scansms-ydom.onrender.com",
+  "ScanSMSserverUrl": "https://scansms.onrender.com",
   "PrepaidTrackerApiBase": "https://prepaidtracker-api.onrender.com"
 }
